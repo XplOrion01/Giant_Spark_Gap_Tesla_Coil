@@ -2,7 +2,13 @@
 
 Welcome to the open-source repository for the **1400mm Giant Spark Gap Tesla Coil**. This project was researched, designed, and fabricated as a high-voltage exhibition model.
 
-<video src="./Media/Final_Design.mp4" autoplay loop muted playsinline width="100%"></video>
+
+<img width="959" height="539" alt="Final Demo" src="https://github.com/user-attachments/assets/9e239f21-1c2f-4aff-a8bc-d8ef96644b63" />
+
+
+https://github.com/user-attachments/assets/93db6294-8219-484f-9322-babc6c6efc24
+
+
 
 ## Research & Development Team
 This project was developed by a dedicated team of student engineers from the **Department of Electronics & Communication Engineering (ECE)**, University College of Engineering, **Osmania University**, Hyderabad, Telangana, India.
